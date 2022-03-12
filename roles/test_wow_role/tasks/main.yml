@@ -1,0 +1,5 @@
+---
+- name: Simple start
+  wow:
+    path: "{{ default_path }}"
+    content: "{{ default_content }}"

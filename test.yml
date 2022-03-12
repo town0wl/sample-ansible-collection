@@ -1,0 +1,6 @@
+---
+- name: Test start
+  hosts: localhost
+  gather_facts: false
+  roles:
+    - test_wow_role

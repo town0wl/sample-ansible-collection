@@ -1,0 +1,5 @@
+---
+default_path: "/tmp/more-test/file"
+default_content: | 
+  some text for test
+  some more text
